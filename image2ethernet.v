@@ -1,4 +1,6 @@
-//add some changes in the master branch
+//add some changes in the master branch. 
+//add some changes from another local master 
+//and push this master to origin
 module image2ethernet(
 //output cmos_reset,
 //output reg cmos_trig,
